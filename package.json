@@ -2,9 +2,9 @@
   "name": "Katrin",
   "version": "1.0.0",
   "description": "",
-  "main": "example.js",
+  "main": "lammas.js",
   "scripts": {
-    "test": "jest -verbose"
+    "test": "jest --verbose"
   },
   "keywords": [],
   "author": "",
